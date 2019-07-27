@@ -1,0 +1,11 @@
+h1 {
+    margin-bottom: 30px;
+}
+section {
+    background-color: lightgray;
+    padding: 1em;
+    margin-bottom: 1em;
+}
+.container {
+    min-height: 1000px;
+}
